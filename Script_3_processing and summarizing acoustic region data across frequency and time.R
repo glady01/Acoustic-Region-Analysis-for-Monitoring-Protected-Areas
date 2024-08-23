@@ -1,6 +1,6 @@
 # ==============================================================================
 # Title: Processing and Summarizing Acoustic Region Data Across Frequency and Time
-# Author: [Name]
+# Author: [Zaibin]
 # Date Created: 2024-02-01
 # ==============================================================================
 
