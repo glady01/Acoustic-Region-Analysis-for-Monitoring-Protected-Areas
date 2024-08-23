@@ -1,6 +1,6 @@
 # ==============================================================================
 # Title: Processing and Summarizing Minute-Based Acoustic Region Data Across Frequency and Time
-# Author: [Name]
+# Author: [A.P. Zaibin]
 # Date Created: 2024-02-03
 # ==============================================================================
 
